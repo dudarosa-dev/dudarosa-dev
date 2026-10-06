@@ -22,7 +22,7 @@ Formanda em **Tecnologias e Programação de Sistemas de Informação** pelo IEF
 
 ### 🌐 Vamos conectar?
 
-- **LinkedIn:** [Eduarda Rosa](https://www.linkedin.com/in/eduarda-rosa-80279b393) *(adicione aqui o seu link)*
+- **LinkedIn:** [Eduarda Rosa](https://www.linkedin.com/in/eduarda-rosa-80279b393) 
 - **Email:** eduarda_rosa@outlook.pt
 - **GitHub:** [@dudarosa-dev](https://github.com/dudarosa-dev)
 
